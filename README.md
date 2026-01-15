@@ -41,4 +41,4 @@ Optimize product and regional focus
 6. Screenshot / Demo
 
 Show what the Dashboard looks like
-Example : 
+Example : https://github.com/skirnake/Isha-Salaes-Dashboard/blob/main/Screenshot%202026-01-15.png
